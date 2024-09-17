@@ -1,0 +1,8 @@
+.main {
+    height: 43rem;
+    display: flex;
+    flex-direction: column;
+    padding-top: 3rem;
+    align-items: center;
+    background-color: rgb(246, 239, 239);
+}
